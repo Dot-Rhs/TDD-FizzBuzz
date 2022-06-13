@@ -1,5 +1,15 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "name": "tdd-fizzbuzz",
+  "description": "---",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
